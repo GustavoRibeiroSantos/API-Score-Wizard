@@ -2,7 +2,7 @@
 
 <h1>Integrative Project 3rd Semester BD - Java Hype Group</h1>
 
-![img1_javahype](https://gitlab.com/giovannimarassi/score-wizard/uploads/3af170f1cf52220384ad369aaf783563/img1_javahype.jpg)<h1> Em parceria com ![img_spc](https://gitlab.com/giovannimarassi/score-wizard/uploads/6857783e3815331197ff74e74a95a480/img_spc.png)</h1>
+![img1_javahype](https://gitlab.com/giovannimarassi/score-wizard/uploads/3af170f1cf52220384ad369aaf783563/img1_javahype.jpg)<h1> In partnership with ![img_spc](https://gitlab.com/giovannimarassi/score-wizard/uploads/6857783e3815331197ff74e74a95a480/img_spc.png)</h1>
 
 # TARGETING YOUR SCORE!
 
