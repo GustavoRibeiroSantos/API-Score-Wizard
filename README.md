@@ -1,25 +1,25 @@
 # SCORE WIZARD
 
-<h1>Projeto Integrador 3º Semestre BD - Grupo Java Hype</h1>
+<h1>Integrative Project 3rd Semester BD - Java Hype Group</h1>
 
 ![img1_javahype](https://gitlab.com/giovannimarassi/score-wizard/uploads/3af170f1cf52220384ad369aaf783563/img1_javahype.jpg)<h1> Em parceria com ![img_spc](https://gitlab.com/giovannimarassi/score-wizard/uploads/6857783e3815331197ff74e74a95a480/img_spc.png)</h1>
 
-# VISANDO SEU SCORE!!
+# TARGETING YOUR SCORE!
 
-<h5>Em parceria com o SPC, trazemos aqui uma inovadora aplicação, a Score Wizard.</h5>
+<h5>In partnership with SPC, we bring you an innovative application, Score Wizard.</h5>
 
-A Score Wizard veio para facilitar, onde qualquer consumidor contribuinte poderá cadastrar seu acesso e consultar seus dados, com previsões e análises, sendo pessoa física ou jurídica.
+Score Wizard is here to make it easier for any taxpaying consumer to register and consult their data, with forecasts and analysis, whether they are an individual or a company.
 
-# DIFERENCIAIS DO SCORE WIZARD
-Itens que serão os diferenciais da aplicação:
+# SCORE WIZARD DIFFERENTIALS
+Items that will set the application apart:
 
- * Cadastro e acesso extremamente rápido e fácil;
- * Análise automática de possíveis motivos de baixo score;
- * Análise do que seria necessário realizar para melhorar score;
- * Média de pontos por idade;
- * Compensador de contas (mostrar ao usuário quais contas precisam de mais atenção);
+ * Extremely quick and easy registration and access;
+ * Automatic analysis of possible reasons for a low score;
+ * Analysis of what would need to be done to improve the score;
+ * Average points by age;
+ * Account compensator (showing the user which accounts need more attention);
 
-# ARQUITETURA
+# ARCHITECTURE
 
  * MySql Community;
  * Java 1.8;
@@ -31,7 +31,7 @@ Itens que serão os diferenciais da aplicação:
  * JavaScript;
  * CSS;
 
-# INTEGRANTES
+# MEMBERS
 
  * SABRINA RAFAELA CALADO MARIANO (Product Owner)
  * GABRIEL DE QUEIROZ CORDEIRO
@@ -40,30 +40,29 @@ Itens que serão os diferenciais da aplicação:
  * PERILO CARVALHO DE OLIVEIRA JUNIOR
  * GIOVANNI GUIDACE MARASSI TANURI (Master)
 
-# VISÃO DO PRODUTO
+# PRODUCT VISION
 
-O SPC, em parceria com os alunos do 3º semestre do curso de Banco de Dados da Fatec de SJC, necessita de um software para obter uma análise estatística da evolução do consumidor em relação ao histórico de pagamentos e também da evolução da nota de score. Esse software é usado por qualquer pessoa física ou jurídica, que possua cadastro positivo e que, ao utilizá-lo, espera melhorar seu score de uma forma melhor do que as outras alternativas existentes no mercado. Espera também, obter dados de sua evolução financeira, afim de contribuir para uma melhora de seu score, e, possivelmente, efetuar novas solicitações de crédito para as instituições financeiras.
+The SPC, in partnership with the students of the 3rd semester of the Database course at Fatec in SJC, needs software to obtain a statistical analysis of the evolution of the consumer in relation to the payment history and also the evolution of the score. This software can be used by any natural or legal person who has a positive record and who, by using it, hopes to improve their score in a better way than other alternatives on the market. They also hope to obtain data on their financial development in order to help improve their score and possibly make new credit applications to financial institutions.
 
-# Acesse o Score Wizard!!
+# Access Score Wizard!
 
 ![images](https://gitlab.com/giovannimarassi/score-wizard/uploads/552d28309f33b977f7b14aa982c8816f/images.png) https://scorewizardteste.herokuapp.com/index
 
+# DELIVERY SCHEDULE - SCORE WIZARD
 
-# CRONOGRAMA DE ENTREGA - SCORE WIZARD
+ <h2> * Deliverables Sprint 0: </h2>
 
- <h2> * Entregas Sprint 0: </h2>
-
-Requisito                               | Equipe Destinada                      | Grau de Prioridade | Status
----------                               | ----------------                      | :-------:          | :---:
-Visão do Produto                        | Scrum Master;                         |         5          |  Concluído
-Requisitos funcionais                   | P.O.; Scrum Master; Scrum Team;       |         5          |  Concluído
-Requisitos não funcionais               | P.O.; Scrum Master; Scrum Team;       |         5          |  Concluído
-Diferenciais do Score Wizard            | Scrum Master;                         |         4          |  Concluído
-Levantamento de Arquitetura             | Scrum Team;                           |         5          |  Concluído
-User Story                              | Scrum Master;                         |         4          |  Concluído
-Wireframe                               | Scrum Team;                           |         4          |  Concluído
-Backlog                                 | P.O.; Scrum Master; Scrum Team;       |         5          |  Concluído
-Analise completa do que compõe o Score  | Scrum Master;                         |         5          |  Concluído
+Requirement | Target Team | Priority Level | Status
+--------- | ---------------- | :-------: | :---:
+Product Vision | Scrum Master; | 5 | Completed
+Functional requirements | P.O.; Scrum Master; Scrum Team; | 5 | Done
+Non-functional requirements | P.O.; Scrum Master; Scrum Team; | 5 | Completed
+Score Wizard differentials | Scrum Master; | 4 | Completed
+Architecture Survey | Scrum Team; | 5 | Completed
+User Story | Scrum Master; | 4 | Completed
+Wireframe | Scrum Team; | 4 | Completed
+Backlog | P.O.; Scrum Master; Scrum Team; | 5 | Completed
+Complete analysis of what makes up the Score | Scrum Master; | 5 | Completed
 
 
  <h2> * Entregas Sprint 1: </h2>
